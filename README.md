@@ -1,20 +1,45 @@
-# Hi, I'm Yavar 👋
+# Hi, I'm Ycode 👋
 
-### Front-End Developer | Building Modern & User-Friendly Web Experiences
+### Front-End Developer | Building Modern, Responsive & User-Friendly Web Experiences
 
-I'm a passionate Front-End Developer focused on creating responsive, clean, and user-friendly web applications. I enjoy turning ideas and designs into polished interfaces while continuously improving my skills and building practical projects.
+I'm a passionate Front-End Developer focused on transforming ideas and designs into clean, responsive, and engaging web experiences. I enjoy building reusable interfaces, solving UI challenges, and continuously improving my skills through practical projects.
 
 🚀 **Open to Work** — Available for Front-End Developer opportunities and collaborations.
 
 ---
 
+> “The details are not the details. They make the design.”
+> — **Charles Eames**
+
+I believe great Front-End development is where **clean code, thoughtful design, accessibility, performance, and user experience** come together to create interfaces that feel simple, intuitive, and enjoyable.
+
+---
+
 ## 💻 Tech Stack
 
+### Core Technologies
+
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,redux,git,github" />
+  <img src="https://skillicons.dev/icons?i=html,css,js" />
 </p>
 
-**HTML • CSS • JavaScript • React • Redux • Tailwind CSS • Git • GitHub**
+**HTML5 • CSS3 • JavaScript (ES6+)**
+
+### Front-End Development
+
+<p>
+  <img src="https://skillicons.dev/icons?i=react,redux,tailwind,bootstrap" />
+</p>
+
+**React • React Router • Redux • Tailwind CSS • Bootstrap 5**
+
+### Tools & Version Control
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github" />
+</p>
+
+**Git • GitHub**
 
 ---
 
@@ -26,24 +51,39 @@ I'm a passionate Front-End Developer focused on creating responsive, clean, and 
 
 **TypeScript • Next.js**
 
-I'm currently expanding my Front-End skills by learning TypeScript and Next.js and plan to build practical projects with them.
+I'm currently expanding my Front-End development skills by learning TypeScript and Next.js, with a focus on building practical and production-oriented projects.
 
 ---
 
 ## 🎯 What I Focus On
 
-* Building responsive and user-friendly interfaces
-* Creating clean and reusable React components
+* Building responsive, accessible, and user-friendly interfaces
+* Creating clean, reusable, and maintainable React components
 * Managing application state with Redux
-* Developing modern UIs with Tailwind CSS
-* Writing clean, maintainable, and scalable code
-* Continuously learning modern Front-End technologies
+* Building modern user interfaces with Tailwind CSS and Bootstrap
+* Creating smooth client-side navigation with React Router
+* Writing clean, scalable, and maintainable Front-End code
+* Continuously learning modern Front-End technologies and best practices
 
 ---
 
 ## 📂 Featured Projects
 
-Here you can find selected projects that demonstrate my Front-End development skills.
+### 🛒 Shopping Cart
+
+A modern e-commerce shopping cart built with **React, Redux, and Tailwind CSS**, featuring product browsing, cart management, quantity controls, and a responsive user interface.
+
+### 💳 Payment Management Dashboard
+
+A React-based payment interface featuring a simulated payment flow and an interactive analytics dashboard built with **Recharts** to visualize monthly payment data.
+
+### 🌐 Responsive Single-Page Website
+
+A modern and responsive single-page website built with **React**, focused on clean layout, reusable components, and an engaging user experience.
+
+### 🌦️ Weather App
+
+A JavaScript-based weather application that retrieves and displays weather information through an API with a clean and user-friendly interface.
 
 > More projects and detailed case studies will be added as I continue building.
 
@@ -58,5 +98,5 @@ I'm open to Front-End Developer opportunities, collaborations, and interesting p
 ---
 
 <p align="center">
-  <i>Code. Create. Improve. 🚀</i>
+  <i>Code with purpose. Design with empathy. Keep improving. 🚀</i>
 </p>

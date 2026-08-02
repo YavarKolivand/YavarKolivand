@@ -1,4 +1,4 @@
-# Hi, I'm Ycode 👋
+# Hi, I'm Yavar 👋
 
 ### Front-End Developer | Building Modern, Responsive & User-Friendly Web Experiences
 
@@ -11,7 +11,7 @@ I'm a passionate Front-End Developer focused on transforming ideas and designs i
 > “The details are not the details. They make the design.”
 > — **Charles Eames**
 
-I believe great Front-End development is where **clean code, thoughtful design, accessibility, performance, and user experience** come together to create interfaces that feel simple, intuitive, and enjoyable.
+I believe great Front-End development brings together **clean code, thoughtful design, accessibility, performance, and user experience**. For me, **code readability and work quality are more important than speed**, because well-crafted solutions create better and more maintainable experiences.
 
 ---
 
@@ -29,6 +29,7 @@ I believe great Front-End development is where **clean code, thoughtful design, 
 
 <p>
   <img src="https://skillicons.dev/icons?i=react,redux,tailwind,bootstrap" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/reactrouter/reactrouter-original.svg" width="48" height="48" alt="React Router" />
 </p>
 
 **React • React Router • Redux • Tailwind CSS • Bootstrap 5**
@@ -69,21 +70,7 @@ I'm currently expanding my Front-End development skills by learning TypeScript a
 
 ## 📂 Featured Projects
 
-### 🛒 Shopping Cart
-
-A modern e-commerce shopping cart built with **React, Redux, and Tailwind CSS**, featuring product browsing, cart management, quantity controls, and a responsive user interface.
-
-### 💳 Payment Management Dashboard
-
-A React-based payment interface featuring a simulated payment flow and an interactive analytics dashboard built with **Recharts** to visualize monthly payment data.
-
-### 🌐 Responsive Single-Page Website
-
-A modern and responsive single-page website built with **React**, focused on clean layout, reusable components, and an engaging user experience.
-
-### 🌦️ Weather App
-
-A JavaScript-based weather application that retrieves and displays weather information through an API with a clean and user-friendly interface.
+Here you can find selected projects that demonstrate my Front-End development skills.
 
 > More projects and detailed case studies will be added as I continue building.
 

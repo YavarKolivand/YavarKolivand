@@ -3,7 +3,7 @@
 ### Front-End Developer | Building Modern, Responsive Web Experiences
 
 📧 **Email:** [yavarkolivand82@gmail.com](mailto:yavarkolivand82@gmail.com)  
-🔗 **LinkedIn:** [yavar-kolivand](https://www.linkedin.com/in/yavar-kolivand-910032443)
+🔗 **LinkedIn:** [yavar-kolivand](https://www.linkedin.com/in/yavar-kolivand)
 
 🚀 **Open to Work** — Available for Front-End Developer opportunities.
 
@@ -87,7 +87,7 @@ A complete task-management app supporting adding, editing, deleting, completing,
   <a href="https://github.com/YavarKolivand">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-  <a href="https://www.linkedin.com/in/yavar-kolivand-910032443">
+  <a href="https://www.linkedin.com/in/yavar-kolivand">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </p>
